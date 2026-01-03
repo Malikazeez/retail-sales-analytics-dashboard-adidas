@@ -57,6 +57,15 @@ Provides a high-level view of key KPIs, revenue breakdowns by product, retailer,
 ### 2. Location Analysis
 Highlights top and bottom performing states and cities to support geographic performance evaluation.
 
+## 📊 Dashboard Preview
+
+### Sales Overview
+![Sales Overview](screenshots/Sales_overview.png)
+
+### Location Analysis
+![Location Analysis](screenshots/Location_analysis.png)
+
+
 ## 💡 Business Value
 This dashboard enables stakeholders to:
 - Quickly assess overall retail sales performance
